@@ -21,7 +21,7 @@ function resize() {
 resize();
 window.addEventListener("resize", resize);
 
-const characters = "SIEUNHOEM";
+const characters = "HAPPY👉🏼👈🏿";
 const fontSize = 20;
 const columns = Math.floor(W / fontSize);
 const drops = Array(columns).fill(1);
@@ -34,8 +34,8 @@ const texts = [
   "1",
   "🎂",
   "23-10-2008", //Day of birth
-  "HAPPY BIRTHDAY", 
-  "NGUYỄN NAM TIẾN", //Your Name
+  "HAPPY BIRTHDAY🎁", 
+  "BAO YEN", //Your Name
   "LỜI CHÚC CỦA BẠN",
   "Hạnh Phúc ⭐",
   "May Mắn 🍀",
@@ -48,7 +48,7 @@ const BASE_DISPLAY_TIME = 3000;
 const EXPLOSION_TIME = 100;
 const CHAR_APPEAR_INTERVAL = 100;
 
-let currentDisplayTime = BASE_DISPLAY_TIME;
+let currentDisplayTime = BASE_DISPLAY_TIME; 
 
 const offCanvas = document.createElement('canvas');
 const offCtx = offCanvas.getContext('2d');

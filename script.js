@@ -33,7 +33,7 @@ const texts = [
   "2",
   "1",
   "🎂",
-  "23-10-2008", //Day of birth
+  "23-3-2012", //Day of birth
   "HAPPY BIRTHDAY🎁", 
   "BAO YEN", //Your Name
   "LỜI CHÚC CỦA BẠN",

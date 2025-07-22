@@ -34,9 +34,9 @@ const texts = [
   "1",
   "🎂",
   "23-7-2012", //Day of birth
-  "HAPPY BIRTHDAY🎁", 
+  "HAPPY BIRTHDAY💯", 
   "BAO YEN", //Your Name
-  "LỜI CHÚC CỦA BẠN",
+  "LỜI CHÚC ♥️",
   "Hạnh Phúc ⭐",
   "May Mắn 🍀",
   "Bình An 🌺",
